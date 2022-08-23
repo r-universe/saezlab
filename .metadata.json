@@ -1,5 +1,17 @@
 [
   {
+    "package": "CARNIVAL"
+  },
+  {
+    "package": "cosmosR"
+  },
+  {
+    "package": "decoupleR"
+  },
+  {
+    "package": "mistyR"
+  },
+  {
     "package": "OmnipathR"
   },
   {
