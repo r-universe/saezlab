@@ -23,13 +23,3 @@
 	url = https://github.com/saezlab/mistyr
 	shallow = true
 	registered = true
-[submodule "OmnipathR"]
-	path = OmnipathR
-	url = https://github.com/saezlab/omnipathr
-	shallow = true
-	registered = true
-[submodule "progeny"]
-	path = progeny
-	url = https://github.com/saezlab/progeny
-	shallow = true
-	registered = true
