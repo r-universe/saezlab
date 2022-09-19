@@ -18,8 +18,8 @@
 	url = https://github.com/saezlab/decoupler
 	shallow = true
 	registered = true
-[submodule "mistyR"]
-	path = mistyR
-	url = https://github.com/saezlab/mistyr
+[submodule "progeny"]
+	path = progeny
+	url = https://github.com/saezlab/progeny
 	shallow = true
 	registered = true
