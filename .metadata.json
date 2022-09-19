@@ -9,6 +9,12 @@
     "package": "decoupleR"
   },
   {
+    "package": "mistyR"
+  },
+  {
+    "package": "OmnipathR"
+  },
+  {
     "package": "progeny"
   }
 ]
