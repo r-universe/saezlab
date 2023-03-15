@@ -1,20 +1,20 @@
 [
   {
+    "package": "progeny"
+  },
+  {
+    "package": "decoupleR"
+  },
+  {
+    "package": "OmnipathR"
+  },
+  {
     "package": "CARNIVAL"
   },
   {
     "package": "cosmosR"
   },
   {
-    "package": "decoupleR"
-  },
-  {
     "package": "mistyR"
-  },
-  {
-    "package": "progeny"
-  },
-  {
-    "package": "OmnipathR"
   }
 ]

@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "progeny"]
+	path = progeny
+	url = https://github.com/saezlab/progeny
+	shallow = true
+	registered = true
+[submodule "decoupleR"]
+	path = decoupleR
+	url = https://github.com/saezlab/decoupler
+	shallow = true
+	registered = true
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/saezlab/omnipathr
+	shallow = true
+	registered = true
 [submodule "CARNIVAL"]
 	path = CARNIVAL
 	url = https://github.com/saezlab/carnival
@@ -13,23 +28,8 @@
 	url = https://github.com/saezlab/cosmosr
 	shallow = true
 	registered = true
-[submodule "decoupleR"]
-	path = decoupleR
-	url = https://github.com/saezlab/decoupler
-	shallow = true
-	registered = true
 [submodule "mistyR"]
 	path = mistyR
 	url = https://github.com/saezlab/mistyr
-	shallow = true
-	registered = true
-[submodule "progeny"]
-	path = progeny
-	url = https://github.com/saezlab/progeny
-	shallow = true
-	registered = true
-[submodule "OmnipathR"]
-	path = OmnipathR
-	url = https://github.com/saezlab/omnipathr
 	shallow = true
 	registered = true
