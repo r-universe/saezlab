@@ -5,6 +5,9 @@
 [submodule "CARNIVAL"]
 	path = CARNIVAL
 	url = https://github.com/saezlab/carnival
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/saezlab/omnipathr
 [submodule "cosmosR"]
 	path = cosmosR
 	url = https://github.com/saezlab/cosmosr
@@ -14,9 +17,6 @@
 [submodule "mistyR"]
 	path = mistyR
 	url = https://github.com/saezlab/mistyr
-[submodule "OmnipathR"]
-	path = OmnipathR
-	url = https://github.com/saezlab/omnipathr
 [submodule "progeny"]
 	path = progeny
 	url = https://github.com/saezlab/progeny
